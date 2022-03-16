@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhou Zenghui's Website"
+title                    : "zhouzenghui(周增辉)"
 description              : "早睡早起，多喝水，多运动。"
 repository               : "MaxwelsDonc/MaxwelsDonc.github.io"
 google_scholar_stats_use_cdn : true

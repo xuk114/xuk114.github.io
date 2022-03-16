@@ -64,8 +64,8 @@ I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.
   - Merit student of SASEE
 
 # Educations
-- *2020.09 - 2022.03 (now)*, Ph.D, [School of Automation Science and Electrical Engineering, Beihang University](http://dept3.buaa.edu.cn/index.htm).
 - *2015.09 - 2019.06*, Undergraduate, [SHENYUAN Honors College of Beihang University](http://sae.buaa.edu.cn/index.htm).
+- *2020.09 - 2022.03 (now)*, Ph.D, [School of Automation Science and Electrical Engineering, Beihang University](http://dept3.buaa.edu.cn/index.htm).
 
 # Research Project
 - *2017.06 - 2017.12* 兼具快速人体成像与危爆品属性检测的毫米波主被动复合非合作安检新体制研究
