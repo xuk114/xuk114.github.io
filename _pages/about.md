@@ -17,7 +17,9 @@ redirect_from:
 # About me
 <span class='anchor' id='about-me'></span>
 
-I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.buaa.edu.cn/index.htm)(北京航空航天大学高等理工学院). Currently I am a second year Ph.D. student in the [School of Automation Science and Electrical Engineering, Beihang University](http://dept3.buaa.edu.cn/index.htm) (北京航空航天大学自动化科学与电气工程学院). My research focuses on software testing and deep learning. Due to deep learning software's wide application, software testing for deep learning becomes urgent and necessary. In this filed, I have published three papers<a href='https://scholar.google.com/citations?user=zTz-1d0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.buaa.edu.cn/index.htm)(北京航空航天大学高等理工学院). Currently I am a second year Ph.D. student in the [School of Automation Science and Electrical Engineering, Beihang University](http://dept3.buaa.edu.cn/index.htm) (北京航空航天大学自动化科学与电气工程学院). My research focuses on software testing and deep learning. Due to deep learning software's wide application, software testing for deep learning becomes urgent and necessary. If you have any idea on this topic, welcome to contact me🎉👏!
+
+<!-- <a href='https://scholar.google.com/citations?user=zTz-1d0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/MaxwelsDonc/MaxwelsDonc.github.io@72406c3f338f8d4589893193c302b6d3500dbdc3/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -28,7 +30,7 @@ I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.
 <div class='paper-box-text' markdown="1">
 
 [Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao<br>
-**[SQJ](https://www.springer.com/journal/11219), 2020** \| [**Google Scholar**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=zTz-1d0AAAAJ&citation_for_view=zTz-1d0AAAAJ:u5HHmVD_uO8C)\| <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
+**[SQJ](https://www.springer.com/journal/11219), 2020** \| [**Google Scholar**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=zTz-1d0AAAAJ&citation_for_view=zTz-1d0AAAAJ:u5HHmVD_uO8C)\| <span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span>
 - point 1
 - point 2
 - point 3
