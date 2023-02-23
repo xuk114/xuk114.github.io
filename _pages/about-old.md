@@ -30,6 +30,7 @@ I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.
 <!-- 文章1 -->
 <div class='paper-box'><div class='paper-box-image'><img src='images/Cross-project bug type prediction based on transfer learning.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
+
 [Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.<br>
 **[SQJ](https://www.springer.com/journal/11219), 2020** \| [**Google Scholar**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=zTz-1d0AAAAJ&citation_for_view=zTz-1d0AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
 - Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
@@ -41,7 +42,9 @@ I was graduated from [SHENYUAN Honors College of Beihang University](http://sae.
 <!-- 文章2 -->
 <div class='paper-box'><div class='paper-box-image'><img src='images/DEEPSIM- DEEP SEMANTIC INFORMATION-BASED AUTOMATIC MANDELBUG CLASSIFICATION.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
+
 [DEEPSIM: Deep Semantic Information-Based Automatic Mandelbug Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551693), Xiaoting Du , Zheng Zheng, Guanping Xiao, **Zenghui Zhou**, Kishor S. Trivedi.<br>
+
 **[TR](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24), 2020** \| [**Google Scholar**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=zTz-1d0AAAAJ&citation_for_view=zTz-1d0AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:d1gkVwhDpl0C'></span></strong>
 - Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
 - We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.

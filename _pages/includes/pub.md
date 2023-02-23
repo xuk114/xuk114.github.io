@@ -1,33 +1,34 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<!-- 文章一 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SQJ 2020</div><img src='images/Cross project bug type prediction based on transfer learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.<br> 
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
+- Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
+- Conduct experimrents on four projects Linux, MySQL, HTTPD, and AXIS which show that the framework can improve the results of cross-project bug type prediction.
+- The impact factors of the prediction results were investigated, including the pair of source and target projects, and the data size of the source project.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<!-- 文章2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR 2021</div><img src='images/DEEPSIM- DEEP SEMANTIC INFORMATION-BASED AUTOMATIC MANDELBUG CLASSIFICATION.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[DEEPSIM: Deep Semantic Information-Based Automatic Mandelbug Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551693), Xiaoting Du , Zheng Zheng, Guanping Xiao, **Zenghui Zhou**, Kishor S. Trivedi.<br>
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:d1gkVwhDpl0C'></span></strong>
+
+- Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
+- We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.
+- We investigated the impacts of the semantic model and word embedding parameters on the classification results.t.
 </div>
 </div>
+
+# TODO
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
