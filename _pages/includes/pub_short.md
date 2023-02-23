@@ -2,31 +2,11 @@
 # Publications 
 
 <!-- 文章一 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://www.springer.com/journal/11219" style="color: white; text-decoration: none;">SQJ 2020</a></div><img src='images/Cross project bug type prediction based on transfer learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.<br> 
-
-[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
-- Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
-- Conduct experimrents on four projects Linux, MySQL, HTTPD, and AXIS which show that the framework can improve the results of cross-project bug type prediction.
-- The impact factors of the prediction results were investigated, including the pair of source and target projects, and the data size of the source project.
-</div>
-</div>
+- [`SQJ 2020`](https://www.springer.com/journal/11219) [Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.\|[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
 
 <!-- 文章2 -->
-<div class='paper-box'> <div class='paper-box-image'> <div><div class="badge"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24" style="color: white; text-decoration: none;">TR 2021</a></div><img src='images/DEEPSIM- DEEP SEMANTIC INFORMATION-BASED AUTOMATIC MANDELBUG CLASSIFICATION.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DEEPSIM: Deep Semantic Information-Based Automatic Mandelbug Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551693), Xiaoting Du , Zheng Zheng, Guanping Xiao, **Zenghui Zhou**, Kishor S. Trivedi.<br>
-
-[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
-- We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.
-- We investigated the impacts of the semantic model and word embedding parameters on the classification results.t.
-</div>
-</div>
+- [`TR 2021`](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24) [DEEPSIM: Deep Semantic Information-Based Automatic Mandelbug Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551693), Xiaoting Du , Zheng Zheng, Guanping Xiao, **Zenghui Zhou**, Kishor S. Trivedi.\|[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:d1gkVwhDpl0C'></span></strong>
 
 <!-- 文章3 -->
 - [`MET 2021`](http://metwiki.net/MET21/) [Follow-up Test Cases are Better Than Source Test Cases in Metamorphic Testing: A Preliminary Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477655), **Zenghui Zhou**, Zheng Zheng, Tsong Yueh Chen, Jinyi Zhou,Kun Qiu.\| [**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u-x6o8ySG0sC'></span></strong>
