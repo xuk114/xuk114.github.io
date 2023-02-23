@@ -8,9 +8,9 @@
 [Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.<br> 
 
 [**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:u5HHmVD_uO8C'></span></strong>
-- Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
-- Conduct experimrents on four projects Linux, MySQL, HTTPD, and AXIS which show that the framework can improve the results of cross-project bug type prediction.
-- The impact factors of the prediction results were investigated, including the pair of source and target projects, and the data size of the source project.
+> - Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
+> - Conduct experimrents on four projects Linux, MySQL, HTTPD, and AXIS which show that the framework can improve the results of cross-project bug type prediction.
+> - The impact factors of the prediction results were investigated, including the pair of source and target projects, and the data size of the source project.
 </div>
 </div>
 
@@ -22,9 +22,9 @@
 
 [**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='zTz-1d0AAAAJ:d1gkVwhDpl0C'></span></strong>
 
-- Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
-- We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.
-- We investigated the impacts of the semantic model and word embedding parameters on the classification results.t.
+> - Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
+> - We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.
+> - We investigated the impacts of the semantic model and word embedding parameters on the classification results.t.
 </div>
 </div>
 
