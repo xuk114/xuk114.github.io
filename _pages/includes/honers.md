@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2015* 
   - Outstanding Freshman of Beihang University.
 - *2018* 
