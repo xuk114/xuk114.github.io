@@ -12,10 +12,10 @@ repository               : "MaxwelsDonc/MaxwelsDonc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-8VJ5225P6T # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-6VT97KX01G # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : QpGj-OQQvO0c5-eb29KO1SRJGQqfDJe--Ctz7496k6g  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : OCvvlk_3Ad625F1DTBg2EuTRkA4gH00L42JGI5n_5rE  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   : 398A9452A6FE4CD18DACB9F379E02632 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  : codeva-cVScaZuOVg # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=zTz-1d0AAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=mrf-JvkAAAAJ"
   email            : "zhouzenghui@buaa.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zenghui-Zhou-2"
   uri              :
