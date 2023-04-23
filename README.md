@@ -56,3 +56,4 @@ AcadHomepage
 1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
 ## Debug Docker
+1. 下载docker，具体可以参考[官网](https://www.docker.com)
