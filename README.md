@@ -57,3 +57,6 @@ AcadHomepage
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
 ## Debug Docker
 1. 下载docker，具体可以参考[官网](https://www.docker.com)
+2. 在你的目标文件夹的终端运行代码 `docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`，会自动下载镜像`bretfisher/jekyll-serve`
+3. 在你的目标文件夹的终端运行代码`bash run_server.sh`然后可以在`http://localhost:4000`中查看相应的网页。
+4. 可以直接在源文件中进行修改，保存后刷新网页自动同步。
