@@ -1,5 +1,5 @@
-🏫 Educations
----
+# 🏫 Educations
+
 
 - 01/2023, started first-year part-time Ph.D. at NTU
 - 07/2020, obtained Master of Technology (M.Tech) degree from ISS, NUS, Singapore
