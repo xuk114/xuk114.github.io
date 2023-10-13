@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Kaixin(徐凯昕)"
+title                    : "Xu Kaixin's - Homepage"
 description              : "A*STAR & NTU"
 repository               : "xuk114/xuk114.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ google_site_verification : dC01X-LJxMAQ06iUmEw0IOBU86rAt_BsncbTnRzywhk  # get go
 author:
   name             : "徐凯昕 xukaixin"
   avatar           : "images/profile.png"
-  bio              : "A*STAR & NTU"
+  bio              : "Senior Research Engineer in I2R, A*STAR. Focusing on model compression."
   location         : "Singapore"
   employer         : "I2R, A*STAR"
   pubmed           : 
