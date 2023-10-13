@@ -9,7 +9,7 @@
 title                    : "Xu Kaixin's - Homepage"
 description              : "A*STAR & NTU"
 repository               : "xuk114/xuk114.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : NBIqaHQAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,9 +21,9 @@ bing_site_verification   : 20151274484837A47E99F3E609F165F6 # get bing_site_veri
 
 # Site Author
 author:
-  name             : "徐凯昕 xukaixin"
+  name             : "Xu Kaixin (徐凯昕)"
   avatar           : "images/profile.png"
-  bio              : "Senior Research Engineer in I2R, A*STAR. Focusing on model compression."
+  bio              : "Senior Research Engineer in I2R, A*STAR. Part-time Ph.D at NTU. Focusing on model compression."
   location         : "Singapore"
   employer         : "I2R, A*STAR"
   pubmed           : 
