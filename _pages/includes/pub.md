@@ -7,7 +7,7 @@
 **Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks**
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Efficient_Joint_Optimization_of_Layer-Adaptive_Weight_Pruning_in_Deep_Neural_ICCV_2023_paper.html)]
   [[Code](https://github.com/Akimoto-Cris/RD_PRUNE)]
-  \
+  \\
   **Kaixin Xu**, Zhe Wang, Xue Geng, Jie Lin, Min Wu, Xiaoli Li, Weisi Lin
 </div>
 </div>
@@ -16,7 +16,7 @@
 <div class='paper-box-text' markdown="1">
   
 **MetaGrad: Adaptive Gradient Quantization with Hypernetworks**
-  [[Paper](https://arxiv.org/pdf/2303.02347.pdf)]\
+  [[Paper](https://arxiv.org/pdf/2303.02347.pdf)]\\
   **Kaixin Xu**, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, Min Wu, Weisi Lin
 </div>
 </div>
@@ -27,7 +27,7 @@
 **Object-Aware Self-Supervised Multi-Label Learning**
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9897968/)]
   [[Code](https://github.com/Akimoto-Cris/OASSMLL)]
-  \
+  \\
   **Xu Kaixin**, Liu Liyang, Zhao Ziyuan, Zeng Zeng, Bharadwaj Veeravalli
 </div>
 </div>
@@ -36,7 +36,7 @@
 <div class='paper-box-text' markdown="1">
   
 **Multi-instance multi-label learning for gene mutation prediction in hepatocellular carcinoma**
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/9175293)]\
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9175293)]\\
   **Kaixin Xu**, Ziyuan Zhao, Jiapan Gu, Zeng Zeng, Chan Wan Ying, Lim Kheng Choon, Thng Choon Hua, Pierce KH Chow
 </div>
 </div>
