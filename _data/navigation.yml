@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#News"
+    url: "/#-News"
 
   - title: "Publications"
-    url: "/#Publications"
+    url: "/#-Publications"
 
   - title: "Education"
-    url: /#educations
+    url: "/#-educations"
 
   - title: "Experiences"
-    url: /#experiences
+    url: "/#-experiences"
 
   - title: "Blog Posts"
     url: https://akimoto-cris.github.io/
