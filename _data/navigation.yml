@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: "/#Publications"
 
-  - title: "Honors and Awards"
-    url: "/#honors"
+  - title: "Education"
+    url: /#educations
 
-  - title: "Others"
-    url: "/#others"
+  - title: "Experiences"
+    url: /#experiences
+
+  - title: "Blog Posts"
+    url: https://akimoto-cris.github.io/
