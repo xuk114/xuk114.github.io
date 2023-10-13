@@ -1,37 +1,27 @@
 
 # Publications 
 
-<!-- <strong><span class='show_paper_citations' data='谷歌学术的链接里面找，形式参考现有的'></span></strong> -->
+- **Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks**
+  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Efficient_Joint_Optimization_of_Layer-Adaptive_Weight_Pruning_in_Deep_Neural_ICCV_2023_paper.html)]
+  [[Code](https://github.com/Akimoto-Cris/RD_PRUNE)]
+  \
+  **Kaixin Xu**, Zhe Wang, Xue Geng, Jie Lin, Min Wu, Xiaoli Li, Weisi Lin\
+  <img src="/images/poster.jpg" alt="image" width="50%" height="auto">
+- **MetaGrad: Adaptive Gradient Quantization with Hypernetworks**
+  [[Paper](https://arxiv.org/pdf/2303.02347.pdf)]\
+  **Kaixin Xu**, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, Min Wu, Weisi Lin\
+  <img src="/images/icip23_pipeline.jpg" alt="image" width="50%" height="auto">
+- **Object-Aware Self-Supervised Multi-Label Learning**
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9897968/)]
+  [[Code](https://github.com/Akimoto-Cris/OASSMLL)]
+  \
+  **Xu Kaixin**, Liu Liyang, Zhao Ziyuan, Zeng Zeng, Bharadwaj Veeravalli\
+  <img src="/images/icip22_pipeline.png" alt="image" width="50%" height="auto">
+- **Multi-instance multi-label learning for gene mutation prediction in hepatocellular carcinoma**
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9175293)]\
+  **Kaixin Xu**, Ziyuan Zhao, Jiapan Gu, Zeng Zeng, Chan Wan Ying, Lim Kheng Choon, Thng Choon Hua, Pierce KH Chow\
+  <img src="/images/embc19_pipeline.png" alt="image" width="50%" height="auto">
 
-<!-- 文章一  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://www.springer.com/journal/11219" style="color: white; text-decoration: none;">SQJ 2020</a></div><img src='images/Cross project bug type prediction based on transfer learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Cross-project bug type prediction based on transfer learning](https://link.springer.com/content/pdf/10.1007/s11219-019-09467-0.pdf), Xiaoting Du, **Zenghui Zhou**, Beibei Yin, Guanping Xiao.<br> 
-
-[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='mrf-JvkAAAAJ:u-x6o8ySG0sC'></span></strong>
-- Proposed a framework of cross-project bug type prediction based on a transfer learning method, TrAdaBoost.
-- Conduct experimrents on four projects Linux, MySQL, HTTPD, and AXIS which show that the framework can improve the results of cross-project bug type prediction.
-- The impact factors of the prediction results were investigated, including the pair of source and target projects, and the data size of the source project.
-</div>
-</div>
-
-<!-- 文章2 -->
-<div class='paper-box'> <div class='paper-box-image'> <div><div class="badge"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24" style="color: white; text-decoration: none;">TR 2021</a></div><img src='images/DEEPSIM- DEEP SEMANTIC INFORMATION-BASED AUTOMATIC MANDELBUG CLASSIFICATION.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DEEPSIM: Deep Semantic Information-Based Automatic Mandelbug Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551693), Xiaoting Du , Zheng Zheng, Guanping Xiao, **Zenghui Zhou**, Kishor S. Trivedi.<br>
-
-[**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='mrf-JvkAAAAJ:u5HHmVD_uO8C'></span></strong>
-
-- Proposed DEEPSIM, an automatic Mandel- bug classification method that combines a semantic model with a deep learning classifier.
-- We evaluated DEEPSIM on a total of 6557 bug reports and compared the results with those of existing studies.The experimental results showed that our method was effective for the classification of Mandel- bugs and performed better than the existing methods for this purpose.
-- We investigated the impacts of the semantic model and word embedding parameters on the classification results.t.
-</div>
-</div>
-
-<!-- 文章3 -->
-- [`MET 2021`](http://metwiki.net/MET21/) [Follow-up Test Cases are Better Than Source Test Cases in Metamorphic Testing: A Preliminary Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477655), **Zenghui Zhou**, Zheng Zheng, Tsong Yueh Chen, Jinyi Zhou,Kun Qiu.\| [**Project**](https://github.com/MaxwelsDonc) <strong><span class='show_paper_citations' data='mrf-JvkAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 
 <!-- 
