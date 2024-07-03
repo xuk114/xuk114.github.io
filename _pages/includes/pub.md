@@ -1,6 +1,18 @@
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**
+  [[Paper](https://arxiv.org/abs/2407.02068)]
+  \\
+  **Kaixin Xu**, Zhe Wang, Chunyun Chen, Xue Geng, Jie Lin, Xulei Yang, Min Wu, Xiaoli Li, Weisi Lin
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/poster.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
