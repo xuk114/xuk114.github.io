@@ -6,6 +6,7 @@
   
 **LPViT: Low-Power Semi-structured Pruning for Vision Transformers**
   [[Paper](https://arxiv.org/abs/2407.02068)]
+  [[Code](https://github.com/Akimoto-Cris/LPViT)]
   \\
   **Kaixin Xu**, Zhe Wang, Chunyun Chen, Xue Geng, Jie Lin, Xulei Yang, Min Wu, Xiaoli Li, Weisi Lin
 </div>
