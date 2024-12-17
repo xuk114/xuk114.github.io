@@ -1,7 +1,6 @@
-# Others
-## Educations
-- **2015.09 - 2019.06**, Undergraduate, [SHENYUAN Honors College of Beihang University](http://sae.buaa.edu.cn/index.htm).
-- **2020.09 - 2022.03 (now)**, Ph.D, [School of Automation Science and Electrical Engineering, Beihang University](http://dept3.buaa.edu.cn/index.htm).
+# Invited Talks
+
+- 12/2024, **"Towards Accurate and Efficient Visual Model Pruning"**, 2024 International Research Forum of AI+, invited talk by Dr. Chen Zhuo.
 
 <!-- # Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
