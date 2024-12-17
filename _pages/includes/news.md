@@ -1,4 +1,5 @@
 # 🔥 News
+- 12/2024， I gave a talk in the 2024 International Research Forum of AI+ at Peng Cheng Laboratory (PCL), Shenzhen.
 - 09/2024, [Codes](https://github.com/Akimoto-Cris/LPViT/) for our [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf) paper released!
 - 07/2024, 1 paper accepted by [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf)!
 - 10/2023, Codes for our [ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Efficient_Joint_Optimization_of_Layer-Adaptive_Weight_Pruning_in_Deep_Neural_ICCV_2023_paper.html) paper is finally released on [GitHub](https://github.com/Akimoto-Cris/RD_PRUNE)!!
