@@ -23,7 +23,7 @@ bing_site_verification   : 20151274484837A47E99F3E609F165F6 # get bing_site_veri
 author:
   name             : "Xu Kaixin (徐凯昕)"
   avatar           : "images/profile.png"
-  bio              : "Senior Research Engineer in I2R, A*STAR. Part-time Ph.D at NTU. Focusing on model compression."
+  bio              : "Senior Research Engineer in I2R, A*STAR. Part-time Ph.D candidate at NTU. Focusing on model compression."
   location         : "Singapore"
   employer         : "I2R, A*STAR"
   pubmed           : 
