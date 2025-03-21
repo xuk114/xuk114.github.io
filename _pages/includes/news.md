@@ -1,4 +1,5 @@
 # 🔥 News
+- 03/25, I was awarded with A*STAR Sponsorship Awards!
 - 12/2024, I gave a talk in the 2024 International Research Forum of AI+ at Peng Cheng Laboratory (PCL), Shenzhen.
 - 09/2024, [Codes](https://github.com/Akimoto-Cris/LPViT/) for our [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf) paper released!
 - 07/2024, 1 paper accepted by [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf)!
