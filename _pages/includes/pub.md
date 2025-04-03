@@ -8,7 +8,7 @@
   [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf)]
   [[Code](https://github.com/Akimoto-Cris/LPViT)]
   \\
-  **Kaixin Xu**, Zhe Wang, Chunyun Chen, Xue Geng, Jie Lin, Xulei Yang, Min Wu, Xiaoli Li, Weisi Lin
+  **Kaixin Xu**, Zhe Wang, Chunyun Chen, Xue Geng, Jie Lin, [Xulei Yang](https://dawdleryang.github.io/), [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
 </div>
 </div>
 
@@ -21,7 +21,7 @@
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Efficient_Joint_Optimization_of_Layer-Adaptive_Weight_Pruning_in_Deep_Neural_ICCV_2023_paper.html)]
   [[Code](https://github.com/Akimoto-Cris/RD_PRUNE)]
   \\
-  **Kaixin Xu**, Zhe Wang, Xue Geng, Jie Lin, Min Wu, Xiaoli Li, Weisi Lin
+  **Kaixin Xu**, Zhe Wang, Xue Geng, Jie Lin, [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
 </div>
 </div>
 
@@ -30,7 +30,7 @@
   
 **MetaGrad: Adaptive Gradient Quantization with Hypernetworks**
   [[Paper](https://arxiv.org/pdf/2303.02347.pdf)]\\
-  **Kaixin Xu**, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, Min Wu, Weisi Lin
+  **Kaixin Xu**, Alina Hui Xiu Lee, Ziyuan Zhao, Zhe Wang, [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
 </div>
 </div>
 
