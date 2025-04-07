@@ -1,6 +1,6 @@
-# Invited Talks
+# 📜 Invited Talks
 
-- 12/2024, **"Towards Accurate and Efficient Visual Model Pruning"**, 2024 International Research Forum of AI+, invited talk by Dr. Chen Zhuo.
+- **12/2024**, "Towards Accurate and Efficient Visual Model Pruning", **2024 International Research Forum of AI+**, invited talk by Dr. Chen Zhuo.
 
 <!-- # Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
