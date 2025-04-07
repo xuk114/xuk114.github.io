@@ -1,4 +1,4 @@
-# Honors and Awards
+# 🏆 Honors and Awards
 - *2025* 
   - [**A*Star Scholarship Award**](https://www.a-star.edu.sg/Scholarships/overview).
     
