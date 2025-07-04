@@ -1,4 +1,6 @@
 # 🔥 News
+
+- 07/25, 1 journal paper accepted by **TPAMI** (IF: 20.8) !
 - 03/25, I was awarded with [**A*STAR Sponsorship Awards**](https://www.a-star.edu.sg/Scholarships/overview)!
 - 12/2024, I gave a talk in the 2024 International Research Forum of AI+ at [Peng Cheng Laboratory (PCL), Shenzhen](https://data-starcloud.pcl.ac.cn/).
 - 09/2024, [Codes](https://github.com/Akimoto-Cris/LPViT/) for our [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08994.pdf) paper released!
