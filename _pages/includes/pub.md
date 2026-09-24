@@ -1,6 +1,18 @@
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/eccv26_thumbnail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**BLOB-Q: Boosting Low Bit ViT Quantization via Global Optimization on Model Distortion**
+  [[Paper](https://openreview.net/pdf?id=XQZMISj5W3)]
+  [[Code](https://github.com/Akimoto-Cris/BLOB-Q)]
+  \\
+  Wang Zhe Mark*, **Kaixin Xu***, Xue Geng, Fen Fang, Mohamed M. Sabry Aly, [Xulei Yang](https://dawdleryang.github.io/), [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -42,14 +54,5 @@
   [[Code](https://github.com/Akimoto-Cris/OASSMLL)]
   \\
   **Xu Kaixin**, Liu Liyang, Zhao Ziyuan, Zeng Zeng, Bharadwaj Veeravalli
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 20219</div><img src='images/embc19_pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Multi-instance multi-label learning for gene mutation prediction in hepatocellular carcinoma**
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/9175293)]\\
-  **Kaixin Xu**, Ziyuan Zhao, Jiapan Gu, Zeng Zeng, Chan Wan Ying, Lim Kheng Choon, Thng Choon Hua, Pierce KH Chow
 </div>
 </div>
