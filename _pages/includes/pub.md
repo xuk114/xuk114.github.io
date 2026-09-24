@@ -8,7 +8,18 @@
   [[Paper](https://openreview.net/pdf?id=XQZMISj5W3)]
   [[Code](https://github.com/Akimoto-Cris/BLOB-Q)]
   \\
-  Wang Zhe Mark*, **Kaixin Xu***, Xue Geng, Fen Fang, Mohamed M. Sabry Aly, [Xulei Yang](https://dawdleryang.github.io/), [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
+  Wang Zhe Mark*, **Kaixin Xu**, Xue Geng, Fen Fang, Mohamed M. Sabry Aly, [Xulei Yang](https://dawdleryang.github.io/), [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami25_thumbnail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Efficient Distortion-minimized Layerwise Pruning**
+  [[Paper](https://ieeexplore.ieee.org/document/11072282/)]
+  \\
+  **Kaixin Xu**, Zhe Wang, Runtao Huang, Xue Geng, Jie Lin, [Xulei Yang](https://dawdleryang.github.io/), [Min Wu](https://research.a-star.edu.sg/researcher/min-wu/), [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683)
 </div>
 </div>
 
