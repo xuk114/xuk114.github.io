@@ -1,5 +1,6 @@
 # 🔥 News
 
+- 10/26, I was selected as a [**Top Reviewer**](https://neurips.cc/Conferences/2026/ProgramCommittee) of **NeurIPS 2026** !
 - 07/26, 1 paper accepted by [**ECCV 2026**](https://openreview.net/forum?id=XQZMISj5W3) !
 - 07/25, 1 journal paper accepted by [**TPAMI**](https://ieeexplore.ieee.org/abstract/document/11072282) (IF: 20.8) !
 - 03/25, I was awarded with [**A*STAR Sponsorship Awards**](https://www.a-star.edu.sg/Scholarships/overview)!

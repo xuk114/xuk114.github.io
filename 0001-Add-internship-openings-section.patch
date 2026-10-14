@@ -1,0 +1,59 @@
+From c764c67805a6bd653dbe6c307376f5f81a231501 Mon Sep 17 00:00:00 2001
+From: xuk114 <kartmannxu5@gmail.com>
+Date: Wed, 14 Oct 2026 19:19:40 +0800
+Subject: [PATCH] Add internship openings section
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_0173jJ9C4KemWHp3joLpYF7B
+---
+ _data/navigation.yml        | 3 +++
+ _pages/about.md             | 3 +++
+ _pages/includes/openings.md | 8 ++++++++
+ 3 files changed, 14 insertions(+)
+ create mode 100644 _pages/includes/openings.md
+
+diff --git a/_data/navigation.yml b/_data/navigation.yml
+index d7f114c..bb3d691 100644
+--- a/_data/navigation.yml
++++ b/_data/navigation.yml
+@@ -3,6 +3,9 @@ main:
+   - title: "About Me"
+     url: "/#about-me"
+ 
++  - title: "Openings"
++    url: "/#-openings"
++
+   - title: "News"
+     url: "/#-news"
+ 
+diff --git a/_pages/about.md b/_pages/about.md
+index f179d58..c5aa3ef 100644
+--- a/_pages/about.md
++++ b/_pages/about.md
+@@ -11,6 +11,9 @@ redirect_from:
+ <span class='anchor' id='about-me'></span>
+ {% include_relative includes/intro.md %}
+ 
++<span class='anchor' id='openings'></span>
++{% include_relative includes/openings.md %}
++
+ <span class='anchor' id='News'></span>
+ {% include_relative includes/news.md %}
+ 
+diff --git a/_pages/includes/openings.md b/_pages/includes/openings.md
+new file mode 100644
+index 0000000..f2ac93b
+--- /dev/null
++++ b/_pages/includes/openings.md
+@@ -0,0 +1,8 @@
++# 📢 Openings
++
++**We are hiring!** Our team at I2R, A\*STAR is looking for **multiple master internship students**. We work on cutting-edge technologies for truly efficient, secure and practical large AI systems, including LLMs/VLMs and more.
++
++- **Requirements:** solid project or research experience in deep learning, a strong problem-solving mindset and good development skills. Candidates should be currently matriculated in Singapore.
++- **We offer:** internship compensation, a state-of-the-art R&D platform, and opportunities for referral. Team members come from Stanford, PKU, BJTU, NUS and NTU, with publications in top venues (CVPR, ICCV, ECCV, NeurIPS, ACL, TPAMI, TIP, TNNLS, etc.).
++
++Interested candidates are welcome to send their CVs to [Xu_Kaixin@a-star.edu.sg](mailto:Xu_Kaixin@a-star.edu.sg).
+-- 
+2.43.0
+
